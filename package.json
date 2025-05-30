@@ -2,7 +2,7 @@
   "name": "business_card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rourory.github.io/me",
+  "homepage": " https://rourory.github.io/business_card/",
   "dependencies": {
     "@react-three/drei": "^10.1.1",
     "@react-three/fiber": "^9.1.2",
